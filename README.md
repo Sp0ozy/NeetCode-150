@@ -10,4 +10,5 @@
 | 6 | Encode and Decode Strings | Medium | 25/04/2026 | 99.83% | 99.02% | — |
 | 7 | Products of Array Except Self | Medium | 26/04/2026 | 100.00% | 94.18% | — |
 | 8 | Valid Sudoku | Medium | 27/04/2026 | 100.00% | 100.00% | — |
+| 9 | Longest Consecutive Sequence | Medium | 28/04/2026 | 100.00% | 56.84% | — |
 
