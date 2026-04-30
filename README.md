@@ -12,4 +12,4 @@
 | 8 | Valid Sudoku | Medium | 27/04/2026 | 100.00% | 100.00% | — |
 | 9 | Longest Consecutive Sequence | Medium | 28/04/2026 | 100.00% | 56.84% | — |
 | 10 | Valid Palindrome | Easy | 29/04/2026 | 55.86% | 99.65% | — |
-
+| 11 | Two Integer Sum II | Medium | 30/04/2026 | 100.00% | 80.83% | — |
