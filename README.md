@@ -15,3 +15,4 @@
 | 11 | Two Integer Sum II | Medium | 30/04/2026 | 100.00% | 80.83% | — |
 | 12 | 3Sum | Medium | 1/05/2026 | 99.97% | 100.00% | — |
 | 13 | Container With Most Water | Medium | 2/05/2026 | 100.00% | 100.00% | — |
+| 14 | Trapping Rain Water | Hard | 3/05/2026 | 100.00% | 62.00% | — |
