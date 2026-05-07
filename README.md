@@ -19,3 +19,4 @@
 | 15 | Best Time to Buy and Sell Stock | Easy | 4/05/2026 | 94.36% | 99.74% | — |
 | 16 | Longest Substring Without Repeating Characters | Medium | 5/05/2026 | 100.00% | 99.75% | — |
 | 17 | Longest Repeating Character Replacement | Medium | 6/05/2026 | 100.00% | 99.87% | — |
+| 18 | Permutation in String | Medium | 7/05/2026 | 100.00% | 99.98% | — |
