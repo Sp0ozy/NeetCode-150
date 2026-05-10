@@ -22,3 +22,4 @@
 | 18 | Permutation in String | Medium | 7/05/2026 | 100.00% | 99.98% | — |
 | 19 | Minimum Window Substring | Hard | 8/05/2026 | 100.00% | 80.99% | — |
 | 20 | Sliding Window Maximum | Hard | 9/05/2026 | 100.00% | 99.80% | — |
+| 21 | Valid Parentheses | Easy | 10/05/2026 | 100.00% | 99.72% | — |
