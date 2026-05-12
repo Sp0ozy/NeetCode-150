@@ -24,3 +24,4 @@
 | 20 | Sliding Window Maximum | Hard | 9/05/2026 | 100.00% | 99.80% | — |
 | 21 | Valid Parentheses | Easy | 10/05/2026 | 100.00% | 99.72% | — |
 | 22 | Minimum Stack | Medium | 11/05/2026 | 96.43% | 99.53% | — |
+| 23 | Evaluate Reverse Polish Notation | Medium | 12/05/2026 | 98.90% | 100.00% | — |
