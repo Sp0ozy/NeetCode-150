@@ -26,3 +26,4 @@
 | 22 | Minimum Stack | Medium | 11/05/2026 | 96.43% | 99.53% | — |
 | 23 | Evaluate Reverse Polish Notation | Medium | 12/05/2026 | 98.90% | 100.00% | — |
 | 24 | Daily Temperatures | Medium | 14/05/2026 | 97.29% | 99.85% | — |
+| 25 | Car Fleet | Medium | 15/05/2026 | 100.00% | 98.55% | — |
