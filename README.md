@@ -27,3 +27,4 @@
 | 23 | Evaluate Reverse Polish Notation | Medium | 12/05/2026 | 98.90% | 100.00% | — |
 | 24 | Daily Temperatures | Medium | 14/05/2026 | 97.29% | 99.85% | — |
 | 25 | Car Fleet | Medium | 15/05/2026 | 100.00% | 98.55% | — |
+| 26 | Largest Rectangle in Histogram | Hard | 16/05/2026 | 100.00% | 68.49% | — |
