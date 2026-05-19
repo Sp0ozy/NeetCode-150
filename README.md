@@ -29,3 +29,4 @@
 | 25 | Car Fleet | Medium | 15/05/2026 | 100.00% | 98.55% | — |
 | 26 | Largest Rectangle in Histogram | Hard | 16/05/2026 | 100.00% | 68.49% | — |
 | 27 | Binary Search | Easy | 18/05/2026 | 93.32% | 99.59% | — |
+| 28 | Search a 2D Matrix | Medium | 19/05/2026 | 100.00% | 95.22% | — |
