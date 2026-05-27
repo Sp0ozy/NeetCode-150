@@ -32,3 +32,4 @@
 | 28 | Search a 2D Matrix | Medium | 19/05/2026 | 100.00% | 95.22% | — |
 | 29 | Koko Eating Bananas | Medium | 20/05/2026 | 100.00% | 99.82% | — |
 | 30 | Find Minimum in Rotated Sorted Array | Medium | 22/05/2026 | 97.11% | 100.00% | — |
+| 31 | Search in Rotated Sorted Array | Medium | 27/05/2026 | 97.63% | 9.34% | — |
